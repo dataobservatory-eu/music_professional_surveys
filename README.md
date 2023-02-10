@@ -5,6 +5,6 @@ Documentation of the Music Professional Surveys
 
 You can find here the documentation of the Digital Music Observatory Music Professional Surveys. 
 
-`questionnaires/`:  you can find here the questionnaires in various formats (PDF, Word, csv.)
-`codebooks/`:  We will place here the codebooks of the surveys.
-`data/`: We will place the datasets of the surveys here.
+- `questionnaires/`:  you can find here the questionnaires in various formats (PDF, Word, csv.)
+- `codebooks/`:  We will place here the codebooks of the surveys.
+- `data/`: We will place the datasets of the surveys here.

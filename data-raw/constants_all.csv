@@ -1,0 +1,1298 @@
+original_text,constant
+Bandcamp,brand
+Deezer,brand
+Facebook,brand
+iTunes,brand
+SoundCloud,brand
+Spotify,brand
+Tidal,brand
+TikTok,brand
+YouTube,brand
+ALL,currency_code
+AMD,currency_code
+BAM,currency_code
+BGL,currency_code
+DKK,currency_code
+EUR,currency_code
+EUR,currency_code
+GBL,currency_code
+GEL,currency_code
+HRK,currency_code
+HUF,currency_code
+NOK,currency_code
+RON,currency_code
+RSD,currency_code
+SEK,currency_code
+UAH,currency_code
+USD,currency_code
+Friuli-Venezia Giulia (ITH4),region_name
+0,numeric_constant
+1,numeric_constant
+2,numeric_constant
+3,numeric_constant
+4,numeric_constant
+5,numeric_constant
+6,numeric_constant
+7,numeric_constant
+8,numeric_constant
+9,numeric_constant
+10,numeric_constant
+11,numeric_constant
+12,numeric_constant
+13,numeric_constant
+14,numeric_constant
+15,numeric_constant
+16,numeric_constant
+17,numeric_constant
+18,numeric_constant
+19,numeric_constant
+20,numeric_constant
+21,numeric_constant
+22,numeric_constant
+23,numeric_constant
+24,numeric_constant
+25,numeric_constant
+26,numeric_constant
+27,numeric_constant
+28,numeric_constant
+29,numeric_constant
+30,numeric_constant
+31,numeric_constant
+32,numeric_constant
+33,numeric_constant
+34,numeric_constant
+35,numeric_constant
+36,numeric_constant
+37,numeric_constant
+38,numeric_constant
+39,numeric_constant
+40,numeric_constant
+41,numeric_constant
+42,numeric_constant
+43,numeric_constant
+44,numeric_constant
+45,numeric_constant
+46,numeric_constant
+47,numeric_constant
+48,numeric_constant
+49,numeric_constant
+50,numeric_constant
+51,numeric_constant
+52,numeric_constant
+53,numeric_constant
+54,numeric_constant
+55,numeric_constant
+56,numeric_constant
+57,numeric_constant
+58,numeric_constant
+59,numeric_constant
+60,numeric_constant
+61,numeric_constant
+62,numeric_constant
+63,numeric_constant
+64,numeric_constant
+65,numeric_constant
+66,numeric_constant
+67,numeric_constant
+68,numeric_constant
+69,numeric_constant
+70,numeric_constant
+71,numeric_constant
+72,numeric_constant
+73,numeric_constant
+74,numeric_constant
+75,numeric_constant
+76,numeric_constant
+77,numeric_constant
+78,numeric_constant
+79,numeric_constant
+80,numeric_constant
+81,numeric_constant
+82,numeric_constant
+83,numeric_constant
+84,numeric_constant
+85,numeric_constant
+86,numeric_constant
+87,numeric_constant
+88,numeric_constant
+89,numeric_constant
+90,numeric_constant
+91,numeric_constant
+92,numeric_constant
+93,numeric_constant
+94,numeric_constant
+95,numeric_constant
+96,numeric_constant
+97,numeric_constant
+98,numeric_constant
+99,numeric_constant
+100,numeric_constant
+101,numeric_constant
+102,numeric_constant
+103,numeric_constant
+104,numeric_constant
+105,numeric_constant
+106,numeric_constant
+107,numeric_constant
+108,numeric_constant
+109,numeric_constant
+110,numeric_constant
+111,numeric_constant
+112,numeric_constant
+113,numeric_constant
+114,numeric_constant
+115,numeric_constant
+116,numeric_constant
+117,numeric_constant
+118,numeric_constant
+119,numeric_constant
+120,numeric_constant
+121,numeric_constant
+122,numeric_constant
+123,numeric_constant
+124,numeric_constant
+125,numeric_constant
+126,numeric_constant
+127,numeric_constant
+128,numeric_constant
+129,numeric_constant
+130,numeric_constant
+131,numeric_constant
+132,numeric_constant
+133,numeric_constant
+134,numeric_constant
+135,numeric_constant
+136,numeric_constant
+137,numeric_constant
+138,numeric_constant
+139,numeric_constant
+140,numeric_constant
+141,numeric_constant
+142,numeric_constant
+143,numeric_constant
+144,numeric_constant
+145,numeric_constant
+146,numeric_constant
+147,numeric_constant
+148,numeric_constant
+149,numeric_constant
+150,numeric_constant
+151,numeric_constant
+152,numeric_constant
+153,numeric_constant
+154,numeric_constant
+155,numeric_constant
+156,numeric_constant
+157,numeric_constant
+158,numeric_constant
+159,numeric_constant
+160,numeric_constant
+161,numeric_constant
+162,numeric_constant
+163,numeric_constant
+164,numeric_constant
+165,numeric_constant
+166,numeric_constant
+167,numeric_constant
+168,numeric_constant
+169,numeric_constant
+170,numeric_constant
+171,numeric_constant
+172,numeric_constant
+173,numeric_constant
+174,numeric_constant
+175,numeric_constant
+176,numeric_constant
+177,numeric_constant
+178,numeric_constant
+179,numeric_constant
+180,numeric_constant
+181,numeric_constant
+182,numeric_constant
+183,numeric_constant
+184,numeric_constant
+185,numeric_constant
+186,numeric_constant
+187,numeric_constant
+188,numeric_constant
+189,numeric_constant
+190,numeric_constant
+191,numeric_constant
+192,numeric_constant
+193,numeric_constant
+194,numeric_constant
+195,numeric_constant
+196,numeric_constant
+197,numeric_constant
+198,numeric_constant
+199,numeric_constant
+200,numeric_constant
+201,numeric_constant
+202,numeric_constant
+203,numeric_constant
+204,numeric_constant
+205,numeric_constant
+206,numeric_constant
+207,numeric_constant
+208,numeric_constant
+209,numeric_constant
+210,numeric_constant
+211,numeric_constant
+212,numeric_constant
+213,numeric_constant
+214,numeric_constant
+215,numeric_constant
+216,numeric_constant
+217,numeric_constant
+218,numeric_constant
+219,numeric_constant
+220,numeric_constant
+221,numeric_constant
+222,numeric_constant
+223,numeric_constant
+224,numeric_constant
+225,numeric_constant
+226,numeric_constant
+227,numeric_constant
+228,numeric_constant
+229,numeric_constant
+230,numeric_constant
+231,numeric_constant
+232,numeric_constant
+233,numeric_constant
+234,numeric_constant
+235,numeric_constant
+236,numeric_constant
+237,numeric_constant
+238,numeric_constant
+239,numeric_constant
+240,numeric_constant
+241,numeric_constant
+242,numeric_constant
+243,numeric_constant
+244,numeric_constant
+245,numeric_constant
+246,numeric_constant
+247,numeric_constant
+248,numeric_constant
+249,numeric_constant
+250,numeric_constant
+251,numeric_constant
+252,numeric_constant
+253,numeric_constant
+254,numeric_constant
+255,numeric_constant
+256,numeric_constant
+257,numeric_constant
+258,numeric_constant
+259,numeric_constant
+260,numeric_constant
+261,numeric_constant
+262,numeric_constant
+263,numeric_constant
+264,numeric_constant
+265,numeric_constant
+266,numeric_constant
+267,numeric_constant
+268,numeric_constant
+269,numeric_constant
+270,numeric_constant
+271,numeric_constant
+272,numeric_constant
+273,numeric_constant
+274,numeric_constant
+275,numeric_constant
+276,numeric_constant
+277,numeric_constant
+278,numeric_constant
+279,numeric_constant
+280,numeric_constant
+281,numeric_constant
+282,numeric_constant
+283,numeric_constant
+284,numeric_constant
+285,numeric_constant
+286,numeric_constant
+287,numeric_constant
+288,numeric_constant
+289,numeric_constant
+290,numeric_constant
+291,numeric_constant
+292,numeric_constant
+293,numeric_constant
+294,numeric_constant
+295,numeric_constant
+296,numeric_constant
+297,numeric_constant
+298,numeric_constant
+299,numeric_constant
+300,numeric_constant
+1900,numeric_constant
+1901,numeric_constant
+1902,numeric_constant
+1903,numeric_constant
+1904,numeric_constant
+1905,numeric_constant
+1906,numeric_constant
+1907,numeric_constant
+1908,numeric_constant
+1909,numeric_constant
+1910,numeric_constant
+1911,numeric_constant
+1912,numeric_constant
+1913,numeric_constant
+1914,numeric_constant
+1915,numeric_constant
+1916,numeric_constant
+1917,numeric_constant
+1918,numeric_constant
+1919,numeric_constant
+1920,numeric_constant
+1921,numeric_constant
+1922,numeric_constant
+1923,numeric_constant
+1924,numeric_constant
+1925,numeric_constant
+1926,numeric_constant
+1927,numeric_constant
+1928,numeric_constant
+1929,numeric_constant
+1930,numeric_constant
+1931,numeric_constant
+1932,numeric_constant
+1933,numeric_constant
+1934,numeric_constant
+1935,numeric_constant
+1936,numeric_constant
+1937,numeric_constant
+1938,numeric_constant
+1939,numeric_constant
+1940,numeric_constant
+1941,numeric_constant
+1942,numeric_constant
+1943,numeric_constant
+1944,numeric_constant
+1945,numeric_constant
+1946,numeric_constant
+1947,numeric_constant
+1948,numeric_constant
+1949,numeric_constant
+1950,numeric_constant
+1951,numeric_constant
+1952,numeric_constant
+1953,numeric_constant
+1954,numeric_constant
+1955,numeric_constant
+1956,numeric_constant
+1957,numeric_constant
+1958,numeric_constant
+1959,numeric_constant
+1960,numeric_constant
+1961,numeric_constant
+1962,numeric_constant
+1963,numeric_constant
+1964,numeric_constant
+1965,numeric_constant
+1966,numeric_constant
+1967,numeric_constant
+1968,numeric_constant
+1969,numeric_constant
+1970,numeric_constant
+1971,numeric_constant
+1972,numeric_constant
+1973,numeric_constant
+1974,numeric_constant
+1975,numeric_constant
+1976,numeric_constant
+1977,numeric_constant
+1978,numeric_constant
+1979,numeric_constant
+1980,numeric_constant
+1981,numeric_constant
+1982,numeric_constant
+1983,numeric_constant
+1984,numeric_constant
+1985,numeric_constant
+1986,numeric_constant
+1987,numeric_constant
+1988,numeric_constant
+1989,numeric_constant
+1990,numeric_constant
+1991,numeric_constant
+1992,numeric_constant
+1993,numeric_constant
+1994,numeric_constant
+1995,numeric_constant
+1996,numeric_constant
+1997,numeric_constant
+1998,numeric_constant
+1999,numeric_constant
+2000,numeric_constant
+2001,numeric_constant
+2002,numeric_constant
+2003,numeric_constant
+2004,numeric_constant
+2005,numeric_constant
+2006,numeric_constant
+2007,numeric_constant
+2008,numeric_constant
+2009,numeric_constant
+2010,numeric_constant
+2011,numeric_constant
+2012,numeric_constant
+2013,numeric_constant
+2014,numeric_constant
+2015,numeric_constant
+2016,numeric_constant
+2017,numeric_constant
+2018,numeric_constant
+2019,numeric_constant
+2020,numeric_constant
+2021,numeric_constant
+2022,numeric_constant
+2023,numeric_constant
+2024,numeric_constant
+2025,numeric_constant
+0%,numeric_constant
+1%,numeric_constant
+10%,numeric_constant
+100%,numeric_constant
+11%,numeric_constant
+12%,numeric_constant
+13%,numeric_constant
+14%,numeric_constant
+15%,numeric_constant
+16%,numeric_constant
+17%,numeric_constant
+18%,numeric_constant
+19%,numeric_constant
+2%,numeric_constant
+20%,numeric_constant
+21%,numeric_constant
+22%,numeric_constant
+23%,numeric_constant
+24%,numeric_constant
+25%,numeric_constant
+26%,numeric_constant
+27%,numeric_constant
+28%,numeric_constant
+29%,numeric_constant
+3%,numeric_constant
+30%,numeric_constant
+31%,numeric_constant
+32%,numeric_constant
+33%,numeric_constant
+34%,numeric_constant
+35%,numeric_constant
+36%,numeric_constant
+37%,numeric_constant
+38%,numeric_constant
+39%,numeric_constant
+4%,numeric_constant
+40%,numeric_constant
+41%,numeric_constant
+42%,numeric_constant
+43%,numeric_constant
+44%,numeric_constant
+45%,numeric_constant
+46%,numeric_constant
+47%,numeric_constant
+48%,numeric_constant
+49%,numeric_constant
+5%,numeric_constant
+50%,numeric_constant
+51%,numeric_constant
+52%,numeric_constant
+53%,numeric_constant
+54%,numeric_constant
+55%,numeric_constant
+56%,numeric_constant
+57%,numeric_constant
+58%,numeric_constant
+59%,numeric_constant
+6%,numeric_constant
+60%,numeric_constant
+61%,numeric_constant
+62%,numeric_constant
+63%,numeric_constant
+64%,numeric_constant
+65%,numeric_constant
+66%,numeric_constant
+67%,numeric_constant
+68%,numeric_constant
+69%,numeric_constant
+7%,numeric_constant
+70%,numeric_constant
+71%,numeric_constant
+72%,numeric_constant
+73%,numeric_constant
+74%,numeric_constant
+75%,numeric_constant
+76%,numeric_constant
+77%,numeric_constant
+78%,numeric_constant
+79%,numeric_constant
+8%,numeric_constant
+80%,numeric_constant
+81%,numeric_constant
+82%,numeric_constant
+83%,numeric_constant
+84%,numeric_constant
+85%,numeric_constant
+86%,numeric_constant
+87%,numeric_constant
+88%,numeric_constant
+89%,numeric_constant
+9%,numeric_constant
+90%,numeric_constant
+91%,numeric_constant
+92%,numeric_constant
+93%,numeric_constant
+94%,numeric_constant
+95%,numeric_constant
+96%,numeric_constant
+97%,numeric_constant
+98%,numeric_constant
+99%,numeric_constant
+AGATA,organization
+AIE - Sociedad de Artistas AIE,organization
+AKKA-LAA,organization
+AKM/AUME,organization
+ARMAUHTOR,organization
+Armenian Jazz Association,organization
+Artisjus,organization
+AsDAC - Asociatia Drepturi de Autor si Conexe din Republica Moldova,organization
+ASGE,organization
+Asociatia DJ-ilor Profesionisti din Romania,organization
+CREDIDAM,organization
+Deutsche Jazzunion,organization
+Deutschen Jazz Föderation,organization
+DJ Szövetság,organization
+EEL,organization
+Eesti Autorite Ühing,organization
+Eesti Jazz Liit,organization
+Eesti Kunstnike Liit,organization
+EJI,organization
+GCA,organization
+GVL - Gesellschaft zur Verwertung von Leistungsschutzrechten,organization
+HANOSZ,organization
+IG World Music Austria,organization
+Lietuvos džiazo federacija,organization
+LSG  Interpreten und Produzenten von Tonträgern und Musikvideos,organization
+Magyar Jazz Szövetség,organization
+Mahasz,organization
+MIE - Musika Industriaren Elkartea,organization
+Mittelburgenland (AT111),organization
+Mittelfranken (DE25),organization
+MPRT,organization
+Musikagileak,organization
+Musikari,organization
+Musikergilde Musiker-Komponisten-AutorenGilde,organization
+NA CONXYPAN,organization
+NSKU - Національна спілка композиторів України,organization
+Österreichische Gesellschaft für Zeitgenössische Musik,organization
+OZIS,organization
+Polskie Stowarzyszenie Jazzowe,organization
+SAWP,organization
+SGAE - Sociedad General de Autores y Editores,organization
+Slovenská jazzová spoločnosť,organization
+SLOVGRAM,organization
+SOZA,organization
+STOART,organization
+UACRR - Громадська організація «Українська агенція з авторських та суміжних прав» ,organization
+UCMR-ADA,organization
+UMM,organization
+UPFR,organization
+ZAIKS,organization
+Zenészbázis,organization
+ZPAV Zwiazek Producentow Audio Video,organization
+АПДЛУМАД - Асоциация на професионалните дисководещи и лица упражняващи музикално- артистична дейност,organization
+БАМП - BAMP,organization
+БХХА - Bulgarian Hip Hop Assocation,organization
+Българска музикална асоциация - Bulgarian Music Association,organization
+Музикаутор - Musicautor,organization
+Abruzzo (ITF1),region_name
+Alytaus apskritis (LT021),region_name
+AM-AG - Aragatsotn (region) - Aragac̣otn -  Արագածոտն,region_name
+AM-AR - Ararat (region) - Ararat -  Արարատ,region_name
+AM-AV - Armavir (region) - Armavir -  Արմավիր,region_name
+AM-ER - Yerevan (city) - Erevan -  Երևան,region_name
+AM-GR - Gegharkunik (region) - Geġark'unik' -  Գեղարքունիք,region_name
+AM-KT - Kotayk (region) - Kotayk' -  Կոտայք,region_name
+AM-LO - Lori (region) - Loṙi -  Լոռի,region_name
+AM-SH - Shirak (region) - Širak -  Շիրակ,region_name
+AM-SU - Syunik (region) - Syunik' -  Սյունիք,region_name
+AM-TV - Tavush (region) - Tavuš -  Տավուշ,region_name
+AM-VD - Vayots Dzor (region) - Vayoć Jor -  Վայոց Ձոր,region_name
+"Amberg, Kreisfreie Stadt (DE231)",region_name
+Andalucía (ES61),region_name
+"Ansbach, Kreisfreie Stadt (DE251)",region_name
+Apple Music,region_name
+Araba/Álava (ES211),region_name
+Aragón (ES24),region_name
+Arnsberg (DEA5),region_name
+"Aschaffenburg, Kreisfreie Stadt (DE261)",region_name
+"Augsburg, Kreisfreie Stadt (DE271)",region_name
+Außerfern (AT331),region_name
+AZ-XA - Stepanakert (municipality) - Xankəndi -  Ստեփանակեր,region_name
+BA-01 - Unsko-sanski kanton / županija,region_name
+BA-02 - Posavski kanton / županija,region_name
+BA-03 - Tuzlanski kanton / županija,region_name
+BA-04 - Zeničko-dobojski kanton / županija,region_name
+BA-05 - Bosansko-podrinjski kanton / županija,region_name
+BA-06 - Srednjobosanski kanton / županija,region_name
+BA-07 - Hercegovačko-neretvanski kanton / županija,region_name
+BA-071 - Grad Mostar,region_name
+BA-09 - Kanton Sarajevo / Sarajevska županija,region_name
+BA-091 - Grad Sarajevo,region_name
+BA-10 - Kanton br. 10 / županija,region_name
+BA-BAL - Grad Banja Luka,region_name
+BA-BLR - Banja Luka region,region_name
+BA-BRC - Brčko distrikt,region_name
+BA-DOB - Doboj-Bijeljina region,region_name
+BA-ISZ - Istočno Sarajevo-Zvornik region,region_name
+BA-SRP - Other Srpska Republika,region_name
+BA-TRF - Trebinje-Foča region,region_name
+Baden-Württemberg (DE1),region_name
+"Bamberg, Kreisfreie Stadt (DE241)",region_name
+Barnim (DE405),region_name
+Basilicata (ITF5),region_name
+Bayern (DE2),region_name
+"Bayreuth, Kreisfreie Stadt (DE242)",region_name
+Bergamo (ITC46),region_name
+Berlin (DE3),region_name
+BG-01 - Blagoevgrad - Благоевград,region_name
+BG-02 - Burgas - Бургас,region_name
+BG-03 - Varna - Варна,region_name
+BG-04 - Veliko Tarnovo - Велико Търново,region_name
+BG-05 - Vidin - Видин,region_name
+BG-06 - Vratsa - Враца,region_name
+BG-07 - Gabrovo - Габрово,region_name
+BG-08 - Dobrich - Добрич,region_name
+BG-09 - Kardzhali - Кърджали,region_name
+BG-10 - Kyustendil - Кюстендил,region_name
+BG-11 - Lovech - Ловеч,region_name
+BG-12 - Montana - Монтана,region_name
+BG-13 - Pazardzhik - Пазарджик,region_name
+BG-14 - Pernik - Перник,region_name
+BG-15 - Pleven - Плевен,region_name
+BG-16 - Plovdiv - Пловдив,region_name
+BG-17 - Razgrad - Разград,region_name
+BG-18 - Ruse - Русе,region_name
+BG-19 - Silistra - Силистра,region_name
+BG-20 - Sliven - Сливен,region_name
+BG-21 - Smolyan - Смолян,region_name
+BG-22 - Sofia (stolitsa) - София,region_name
+BG-23 - Sofia (region) - Софийска,region_name
+BG-24 - Stara Zagora - Стара Загора,region_name
+BG-25 - Targovishte - Търговище,region_name
+BG-26 - Haskovo - Хасково,region_name
+BG-27 - Shumen - Шумен,region_name
+BG-28 - Yambol - Ямбол,region_name
+Bilbao (ES2131),region_name
+Bizkaia (ES213),region_name
+Bjelovarsko-bilogorska županija (HR021),region_name
+Bludenz-Bregenzer Wald (AT341),region_name
+Böblingen (DE112),region_name
+"Bochum, Kreisfreie Stadt (DEA51)",region_name
+"Bonn, Kreisfreie Stadt (DEA22)",region_name
+"Bottrop, Kreisfreie Stadt (DEA31)",region_name
+Brandenburg (DE4),region_name
+"Brandenburg an der Havel, Kreisfreie Stadt (DE401)",region_name
+Braunschweig (DE91),region_name
+"Braunschweig, Kreisfreie Stadt (DE911)",region_name
+Bremen (DE5),region_name
+"Bremen, Kreisfreie Stadt (DE501)",region_name
+"Bremerhaven, Kreisfreie Stadt (DE502)",region_name
+Brescia (ITC47),region_name
+Brodsko-posavska županija (HR024),region_name
+Burgenland (AT11),region_name
+BYN,region_name
+Calabria (ITF6),region_name
+Campania (ITF3),region_name
+Canarias (ES7),region_name
+Cantabria (ES13),region_name
+Castilla y León (ES41),region_name
+Castilla-La Mancha (ES42),region_name
+Cataluña (ES51),region_name
+Centro (ES4),region_name
+Centro (ITI),region_name
+Česká Jazzová Společnost,region_name
+Chemnitz (DED4),region_name
+"Chemnitz, Kreisfreie Stadt (DED41)",region_name
+Cherkasy Oblast (CK),region_name
+Chernihiv Oblast (CH),region_name
+Chernivtsi Oblast (CV),region_name
+Ciudad de Ceuta (ES63),region_name
+Ciudad de Melilla (ES64),region_name
+"Coburg, Kreisfreie Stadt (DE243)",region_name
+Como (ITC42),region_name
+Composers’ Union of Georgia,region_name
+Comunidad de Madrid (ES3),region_name
+Comunidad Foral de Navarra (ES22),region_name
+Comunitat Valenciana (ES52),region_name
+"Cottbus, Kreisfreie Stadt (DE402)",region_name
+Cremona (ITC4A),region_name
+Crimea Oblast (CR),region_name
+CZ010 - Hlavní město Praha,region_name
+CZ020 - Středočeský kraj,region_name
+CZ031 - Jihočeský kraj,region_name
+CZ032 - Plzeňský kraj,region_name
+CZ041 - Karlovarský kraj,region_name
+CZ042 - Ústecký kraj,region_name
+CZ051 - Liberecký kraj,region_name
+CZ052 - Královéhradecký kraj,region_name
+CZ053 - Pardubický kraj,region_name
+CZ063 - Kraj Vysočina,region_name
+CZ064 - Jihomoravský kraj,region_name
+CZ071 - Olomoucký kraj,region_name
+CZ072 - Zlínský kraj,region_name
+CZ080 - Moravskoslezský kraj,region_name
+Dahme-Spreewald (DE406),region_name
+Darmstadt (DE71),region_name
+"Delmenhorst, Kreisfreie Stadt (DE941)",region_name
+"Dessau-Roßlau, Kreisfreie Stadt (DEE01)",region_name
+Detmold (DEA4),region_name
+Dnipropetrovsk Oblast (DP),region_name
+Donetsk Oblast (DT),region_name
+"Dortmund, Kreisfreie Stadt (DEA52)",region_name
+Dresden (DED2),region_name
+"Dresden, Kreisfreie Stadt (DED21)",region_name
+Dubrovačko-neretvanska županija (HR037),region_name
+"Duisburg, Kreisfreie Stadt (DEA12)",region_name
+Düsseldorf (DEA1),region_name
+"Düsseldorf, Kreisfreie Stadt (DEA11)",region_name
+Elbe-Elster (DE407),region_name
+"Emden, Kreisfreie Stadt (DE942)",region_name
+Emilia-Romagna (ITH5),region_name
+"Erfurt, Kreisfreie Stadt (DEG01)",region_name
+"Erlangen, Kreisfreie Stadt (DE252)",region_name
+"Essen, Kreisfreie Stadt (DEA13)",region_name
+Esslingen (DE113),region_name
+Este (ES5),region_name
+Extremadura (ES43),region_name
+"Flensburg, Kreisfreie Stadt (DEF01)",region_name
+"Frankenthal (Pfalz), Kreisfreie Stadt (DEB31)",region_name
+"Frankfurt (Oder), Kreisfreie Stadt (DE403)",region_name
+Freiburg (DE13),region_name
+"Fürth, Kreisfreie Stadt (DE253)",region_name
+Galicia (ES11),region_name
+GE-AB - Abkhazia - აფხაზეთი,region_name
+GE-AJ - Ajaria - აჭარა,region_name
+GE-GU - Guria - გურია,region_name
+GE-IM - Imereti - იმერეთი,region_name
+GE-KA - K'akheti - კახეთი,region_name
+GE-KK - Kvemo Kartli - ქვემო ქართლი,region_name
+GE-MM - Mtskheta-Mtianeti - მცხეთა-მთიანეთი,region_name
+GE-RL - Rach'a-Lechkhumi-Kvemo Svaneti - რაჭა-ლეჩხუმი და ქვემო სვანეთი,region_name
+GE-SJ - Samtskhe-Javakheti - სამცხე-ჯავახეთი,region_name
+GE-SK - Shida Kartli - შიდა ქართლი,region_name
+GE-SZ - Samegrelo-Zemo Svaneti - სამეგრელო-ზემო სვანეთი,region_name
+GE-TB - Tbilisi - თბილისი,region_name
+"Gelsenkirchen, Kreisfreie Stadt (DEA32)",region_name
+GEMA,region_name
+"Gera, Kreisfreie Stadt (DEG02)",region_name
+Gießen (DE72),region_name
+Gipuzkoa (ES212),region_name
+Göppingen (DE114),region_name
+Grad Zagreb (HR050),region_name
+Graz (AT221),region_name
+Haapsalu,region_name
+"Hagen, Kreisfreie Stadt (DEA53)",region_name
+"Halle (Saale), Kreisfreie Stadt (DEE02)",region_name
+Hamburg (DE6),region_name
+"Hamm, Kreisfreie Stadt (DEA54)",region_name
+Hannover (DE92),region_name
+Havelland (DE408),region_name
+Heidenheim (DE11C),region_name
+"Heilbronn, Landkreis (DE118)",region_name
+"Heilbronn, Stadtkreis (DE117)",region_name
+"Herne, Kreisfreie Stadt (DEA55)",region_name
+Hessen (DE7),region_name
+"Hof, Kreisfreie Stadt (DE244)",region_name
+Hohenlohekreis (DE119),region_name
+HU-BA - Baranya,region_name
+HU-BC - Békéscsaba,region_name
+HU-BE - Békés,region_name
+HU-BK - Bács-Kiskun,region_name
+HU-BU - Budapest,region_name
+HU-BZ - Borsod-Abaúj-Zemplén,region_name
+HU-CS - Csongrád,region_name
+HU-DE - Debrecen,region_name
+HU-DU - Dunaújváros,region_name
+HU-EG - Eger,region_name
+HU-ER - Érd,region_name
+HU-FE - Fejér,region_name
+HU-GS - Győr-Moson-Sopron,region_name
+HU-GY - Győr,region_name
+HU-HB - Hajdú-Bihar,region_name
+HU-HE - Heves,region_name
+HU-HV - Hódmezővásárhely,region_name
+HU-JN - Jász-Nagykun-Szolnok,region_name
+HU-KE - Komárom-Esztergom,region_name
+HU-KM - Kecskemét,region_name
+HU-KV - Kaposvár,region_name
+HU-MI - Miskolc,region_name
+HU-NK - Nagykanizsa,region_name
+HU-NO - Nógrád,region_name
+HU-NY - Nyíregyháza,region_name
+HU-PE - Pest,region_name
+HU-PS - Pécs,region_name
+HU-SD - Szeged,region_name
+HU-SF - Székesfehérvár,region_name
+HU-SH - Szombathely,region_name
+HU-SK - Szolnok,region_name
+HU-SN - Sopron,region_name
+HU-SO - Somogy,region_name
+HU-SS - Szekszárd,region_name
+HU-ST - Salgótarján,region_name
+HU-SZ - Szabolcs-Szatmár-Bereg,region_name
+HU-TB - Tatabánya,region_name
+HU-TO - Tolna,region_name
+HU-VA - Vas,region_name
+HU-VE - Veszprém város,region_name
+HU-VM - Veszprém,region_name
+HU-ZA - Zala,region_name
+HU-ZE - Zalaegerszeg,region_name
+Illes Balears (ES53),region_name
+"Ingolstadt, Kreisfreie Stadt (DE211)",region_name
+Innsbruck (AT332),region_name
+Innviertel (AT311),region_name
+Intergram,region_name
+Isole (ITG),region_name
+Istarska županija (HR036),region_name
+Ivano-Frankivsk Oblast (IF),region_name
+Jadranska Hrvatska (HR03),region_name
+"Jena, Kreisfreie Stadt (DEG03)",region_name
+Jõgeva,region_name
+Jõhvi,region_name
+"Kaiserslautern, Kreisfreie Stadt (DEB32)",region_name
+Kärdla,region_name
+Karlovačka županija (HR027),region_name
+Karlsruhe (DE12),region_name
+Kärnten (AT21),region_name
+Kassel (DE73),region_name
+"Kaufbeuren, Kreisfreie Stadt (DE272)",region_name
+Kauno apskritis (LT022),region_name
+"Kempten (Allgäu), Kreisfreie Stadt (DE273)",region_name
+Kharkiv Oblast (KK),region_name
+Kherson Oblast (KS),region_name
+Khmelnytskyi Oblast (KM),region_name
+"Kiel, Kreisfreie Stadt (DEF02)",region_name
+Kirovohrad Oblast (KH),region_name
+Klagenfurt-Villach (AT211),region_name
+Klaipėdos apskritis (LT023),region_name
+Koblenz (DEB1),region_name
+Köln (DEA2),region_name
+"Köln, Kreisfreie Stadt (DEA23)",region_name
+Koprivničko-križevačka županija (HR063),region_name
+Krapinsko-zagorska županija (HR064),region_name
+"Krefeld, Kreisfreie Stadt (DEA14)",region_name
+Kuressaare,region_name
+Kyiv City (KVC),region_name
+Kyiv Oblast (KV),region_name
+La Rioja (ES23),region_name
+LAIPA Latvijas Izpildītāju un producentu apvienība,region_name
+"Landau in der Pfalz, Kreisfreie Stadt (DEB33)",region_name
+"Landshut, Kreisfreie Stadt (DE221)",region_name
+LATGA,region_name
+Lazio (ITI4),region_name
+Lecco (ITC43),region_name
+Leipzig (DED5),region_name
+"Leipzig, Kreisfreie Stadt (DED51)",region_name
+"Leverkusen, Kreisfreie Stadt (DEA24)",region_name
+Ličko-senjska županija (HR032),region_name
+Liezen (AT222),region_name
+Liguria (ITC3),region_name
+Linz-Wels (AT312),region_name
+LKS Latvijas Komponistu savienība,region_name
+Lodi (ITC49),region_name
+Lombardia (ITC4),region_name
+LT011 Vilnius County,region_name
+LT021 Alytus County,region_name
+LT022 Kaunas County,region_name
+LT023 Klaipėda County,region_name
+LT024 Marijampolė County,region_name
+LT025 Panevėžys County,region_name
+LT026 Šiauliai County,region_name
+LT027 Tauragė County,region_name
+LT028 Telšiai County,region_name
+LT029 Utena County,region_name
+"Lübeck, Kreisfreie Stadt (DEF03)",region_name
+Ludwigsburg (DE115),region_name
+"Ludwigshafen am Rhein, Kreisfreie Stadt (DEB34)",region_name
+Luhansk Oblast (LH),region_name
+Lüneburg (DE93),region_name
+Lungau (AT321),region_name
+LV-DGV  - Daugavpils city,region_name
+LV-JEL  - Jelgava city,region_name
+LV-JKB  - Jēkabpils city,region_name
+LV-JUR  - Jūrmala city,region_name
+LV-LPX  - Liepāja city,region_name
+LV-REZ  - Rēzekne city,region_name
+LV-RIX  - Rīga city,region_name
+LV-VEN  - Ventspils city,region_name
+LV-VMR  - Valmiera city,region_name
+LV003  - Kurzeme region,region_name
+LV005  - Latgale region,region_name
+LV006  - Rīga region,region_name
+LV007  - Pierīga region,region_name
+LV008  - Vidzeme region,region_name
+LV009  - Zemgale region,region_name
+Lviv Oblast (LV),region_name
+"Magdeburg, Kreisfreie Stadt (DEE03)",region_name
+Main-Tauber-Kreis (DE11B),region_name
+"Mainz, Kreisfreie Stadt (DEB35)",region_name
+Mantova (ITC4B),region_name
+Marche (ITI3),region_name
+Marijampolės apskritis (LT024),region_name
+Märkisch-Oderland (DE409),region_name
+MD-AN - Anenii Noi,region_name
+MD-BA - Bălți,region_name
+MD-BD - Bender [Tighina],region_name
+MD-BR - Briceni,region_name
+MD-BS - Basarabeasca,region_name
+MD-CA - Cahul,region_name
+MD-CL - Călărași,region_name
+MD-CM - Cimișlia,region_name
+MD-CR - Criuleni,region_name
+MD-CS - Căușeni,region_name
+MD-CT - Cantemir,region_name
+MD-CU - Chișinău,region_name
+MD-DO - Dondușeni,region_name
+MD-DR - Drochia,region_name
+MD-DU - Dubăsari,region_name
+MD-ED - Edineț,region_name
+MD-FA - Fălești,region_name
+MD-FL - Florești,region_name
+"MD-GA - Găgăuzia, Unitatea teritorială autonomă (UTAG)",region_name
+MD-GL - Glodeni,region_name
+MD-HI - Hîncești,region_name
+MD-IA - Ialoveni,region_name
+MD-LE - Leova,region_name
+MD-NI - Nisporeni,region_name
+MD-OC - Ocnița,region_name
+MD-OR - Orhei,region_name
+MD-RE - Rezina,region_name
+MD-RI - Rîșcani,region_name
+MD-SD - Șoldănești,region_name
+MD-SI - Sîngerei,region_name
+"MD-SN - Stînga Nistrului, unitatea teritorială din",region_name
+MD-SO - Soroca,region_name
+MD-ST - Strășeni,region_name
+MD-SV - Ștefan Vodă,region_name
+MD-TA - Taraclia,region_name
+MD-TE - Telenești,region_name
+MD-UN - Ungheni,region_name
+Mecklenburg-Vorpommern (DE8),region_name
+Međimurska županija (HR061),region_name
+"Memmingen, Kreisfreie Stadt (DE274)",region_name
+Merzig-Wadern (DEC02),region_name
+Milano (ITC4C),region_name
+Molise (ITF2),region_name
+"Mönchengladbach, Kreisfreie Stadt (DEA15)",region_name
+Monza e della Brianza (ITC4D),region_name
+Mostviertel-Eisenwurzen (AT121),region_name
+Mühlviertel (AT313),region_name
+"Mülheim an der Ruhr, Kreisfreie Stadt (DEA16)",region_name
+"München, Kreisfreie Stadt (DE212)",region_name
+Münster (DEA3),region_name
+"Münster, Kreisfreie Stadt (DEA33)",region_name
+Mykolaiv Oblast (MY),region_name
+"Neumünster, Kreisfreie Stadt (DEF04)",region_name
+Neunkirchen (DEC03),region_name
+Niederbayern (DE22),region_name
+Niederösterreich (AT12),region_name
+Niederösterreich-Süd (AT122),region_name
+Niedersachsen (DE9),region_name
+Nord-Est (ITH),region_name
+Nord-Ovest (ITC),region_name
+Nordburgenland (AT112),region_name
+Nordrhein-Westfalen (DEA),region_name
+Noreste (ES2),region_name
+Noroeste (ES1),region_name
+"Nürnberg, Kreisfreie Stadt (DE254)",region_name
+Oberbayern (DE21),region_name
+Oberfranken (DE24),region_name
+"Oberhausen, Kreisfreie Stadt (DEA17)",region_name
+Oberhavel (DE40A),region_name
+Oberkärnten (AT212),region_name
+Oberösterreich (AT31),region_name
+Oberpfalz (DE23),region_name
+Oberspreewald-Lausitz (DE40B),region_name
+Oder-Spree (DE40C),region_name
+Odesa Oblast (OD),region_name
+ÖKB - Österreichischer Komponistenbund,region_name
+"Oldenburg (Oldenburg), Kreisfreie Stadt (DE943)",region_name
+OSA,region_name
+Osječko-baranjska županija (HR025),region_name
+"Osnabrück, Kreisfreie Stadt (DE944)",region_name
+Ostalbkreis (DE11D),region_name
+Östliche Obersteiermark (AT223),region_name
+Ostösterreich (AT1),region_name
+Ostprignitz-Ruppin (DE40D),region_name
+Oststeiermark (AT224),region_name
+Osttirol (AT333),region_name
+Paide,region_name
+País Vasco - Euskadi (ES21),region_name
+Panevėžio apskritis (LT025),region_name
+Panonska Hrvatska (HR02),region_name
+Pärnu,region_name
+"Passau, Kreisfreie Stadt (DE222)",region_name
+Pavia (ITC48),region_name
+Piemonte (ITC1),region_name
+Pinzgau-Pongau (AT322),region_name
+"Pirmasens, Kreisfreie Stadt (DEB37)",region_name
+PL-02 - Dolnośląskie - Lower Silesia,region_name
+PL-04 - Kujawsko-pomorskie - Kuyavia-Pomerania,region_name
+PL-06 - Lubelskie - Lublin,region_name
+PL-08 - Lubuskie - Lubusz,region_name
+PL-10 - Łódzkie - Łódź,region_name
+PL-12 - Małopolskie - Lesser Poland,region_name
+PL-14 - Mazowieckie - Mazovia,region_name
+PL-16 - Opolskie - Opole (Upper Silesia),region_name
+PL-18 - Podkarpackie - Subcarpathia,region_name
+PL-20 - Podlaskie - Podlaskie,region_name
+PL-22 - Pomorskie - Pomerania,region_name
+PL-24 - Śląskie - Silesia,region_name
+PL-26 - Świętokrzyskie - Holy Cross,region_name
+PL-28 - Warmińsko-mazurskie - Warmia-Masuria,region_name
+PL-30 - Wielkopolskie - Greater Poland,region_name
+PL-32 - Zachodniopomorskie - West Pomerania,region_name
+PL-GD - Gdańsk,region_name
+PL-KA - Katowice,region_name
+PL-KR - Kraków,region_name
+PL-LD - Łódź,region_name
+PL-LO - Łomża,region_name
+PL-LU - Lublin,region_name
+PL-PO - Poznań,region_name
+PL-PR - Przemyśl,region_name
+PL-SZ - Szczecin,region_name
+PL-WA - Warszawa,region_name
+PL-WR - Wrocław,region_name
+Poltava Oblast (PL),region_name
+Põlva,region_name
+Potsdam-Mittelmark (DE40E),region_name
+"Potsdam, Kreisfreie Stadt (DE404)",region_name
+Požeško-slavonska županija (HR023),region_name
+Prignitz (DE40F),region_name
+Primorsko-goranska županija (HR031),region_name
+Principado de Asturias (ES12),region_name
+Provincia Autonoma di Bolzano - Bozen (ITH1),region_name
+Provincia Autonoma di Trento (ITH2),region_name
+Puglia (ITF4),region_name
+Rakvere,region_name
+Rapla,region_name
+"Regensburg, Kreisfreie Stadt (DE232)",region_name
+Región de Murcia (ES62),region_name
+Regionalverband Saarbrücken (DEC01),region_name
+Rems-Murr-Kreis (DE116),region_name
+"Remscheid, Kreisfreie Stadt (DEA18)",region_name
+Rheinhessen-Pfalz (DEB3),region_name
+Rheinland-Pfalz (DEB),region_name
+Rheintal-Bodenseegebiet (AT342),region_name
+Rivne Oblast (RV),region_name
+RO-AB -  Alba,region_name
+RO-AG -  Argeș,region_name
+RO-AR -  Arad,region_name
+RO-B -  București,region_name
+RO-BC -  Bacău,region_name
+RO-BH -  Bihor,region_name
+RO-BN -  Bistrița-Năsăud,region_name
+RO-BR -  Brăila,region_name
+RO-BT -  Botoșani,region_name
+RO-BV -  Brașov,region_name
+RO-BZ -  Buzău,region_name
+RO-CJ -  Cluj,region_name
+RO-CL -  Călărași,region_name
+RO-CS -  Caraș-Severin,region_name
+RO-CT -  Constanța,region_name
+RO-CV -  Covasna,region_name
+RO-DB -  Dâmbovița,region_name
+RO-DJ -  Dolj,region_name
+RO-GJ -  Gorj,region_name
+RO-GL -  Galați,region_name
+RO-GR -  Giurgiu,region_name
+RO-HD -  Hunedoara,region_name
+RO-HR -  Harghita,region_name
+RO-IF -  Ilfov,region_name
+RO-IL -  Ialomița,region_name
+RO-IS -  Iași,region_name
+RO-MH -  Mehedinți,region_name
+RO-MM -  Maramureș,region_name
+RO-MS -  Mureș,region_name
+RO-NT -  Neamț,region_name
+RO-OT -  Olt,region_name
+RO-PH -  Prahova,region_name
+RO-SB -  Sibiu,region_name
+RO-SJ -  Sălaj,region_name
+RO-SM -  Satu Mare,region_name
+RO-SV -  Suceava,region_name
+RO-TL -  Tulcea,region_name
+RO-TM -  Timiș,region_name
+RO-TR -  Teleorman,region_name
+RO-VL -  Vâlcea,region_name
+RO-VN -  Vrancea,region_name
+RO-VS -  Vaslui,region_name
+Roma (ITI43),region_name
+"Rosenheim, Kreisfreie Stadt (DE213)",region_name
+"Rostock, Kreisfreie Stadt (DE803)",region_name
+RS11 - Beograd,region_name
+RS110 - Grad Beograd,region_name
+RS12 - Vojvodina,region_name
+RS21 - Šumadija i zapadna Srbija,region_name
+RS22 - Južna i istočna Srbija,region_name
+RS23 - Kosovo i Metohija,region_name
+Saarlouis (DEC04),region_name
+Saarpfalz-Kreis (DEC05),region_name
+Sachsen (DED),region_name
+Sachsen-Anhalt (DEE),region_name
+Salzburg (AT32),region_name
+Salzburg und Umgebung (AT323),region_name
+"Salzgitter, Kreisfreie Stadt (DE912)",region_name
+Sankt Pölten (AT123),region_name
+Sardegna (ITG2),region_name
+Schleswig-Holstein (DEF),region_name
+"Schwabach, Kreisfreie Stadt (DE255)",region_name
+Schwaben (DE27),region_name
+Schwäbisch Hall (DE11A),region_name
+"Schweinfurt, Kreisfreie Stadt (DE262)",region_name
+"Schwerin, Kreisfreie Stadt (DE804)",region_name
+Sevastopol (SV),region_name
+SI-061 - Ljubljana,region_name
+SI-070 - Maribor,region_name
+SI011 - Pomurska,region_name
+SI012 - Podravska,region_name
+SI013 - Koroška,region_name
+SI014 - Savinjska,region_name
+SI015 - Zasavska,region_name
+SI016 - Posavska,region_name
+SI017 - Jugovzhodna Slovenija,region_name
+SI018 - Primorsko-notranjska,region_name
+SI021 - Osrednjeslovenska,region_name
+SI022 - Gorenjska,region_name
+SI023 - Goriška,region_name
+SI024 - Obalno-kraška,region_name
+Šiaulių apskritis (LT026),region_name
+Šibensko-kninska županija (HR034),region_name
+Sicilia (ITG1),region_name
+Sisačko-moslavačka županija (HR028),region_name
+Sjeverna Hrvatska (HR06),region_name
+"SK010 - Bratislavský kraj (Malacky, Pezinok, Senec)",region_name
+SK0100 - Bratislava,region_name
+SK021 - Trnavský kraj,region_name
+SK022 - Trenčiansky kraj,region_name
+SK023 - Nitriansky kraj,region_name
+SK031 - Žilinský kraj,region_name
+SK032 - Banskobystrický kraj,region_name
+SK041 - Prešovský kraj,region_name
+SK042 - Košický kraj,region_name
+"Solingen, Kreisfreie Stadt (DEA19)",region_name
+Sondrio (ITC44),region_name
+Sostinės regionas (LT01),region_name
+"Speyer, Kreisfreie Stadt (DEB38)",region_name
+Splitsko-dalmatinska županija (HR035),region_name
+Spree-Neiße (DE40G),region_name
+Steiermark (AT22),region_name
+Steyr-Kirchdorf (AT314),region_name
+"Straubing, Kreisfreie Stadt (DE223)",region_name
+"Stuttgart, Stadtkreis (DE111)",region_name
+Sud (ITF),region_name
+Südburgenland (AT113),region_name
+Südösterreich (AT2),region_name
+"Suhl, Kreisfreie Stadt (DEG04)",region_name
+Sumy Oblast (SM),region_name
+Sur (ES6),region_name
+Tallinn või Harju maakond,region_name
+Tartu,region_name
+Tauragės apskritis (LT027),region_name
+Telšių apskritis (LT028),region_name
+Teltow-Fläming (DE40H),region_name
+Ternopil Oblast (TP),region_name
+Thüringen (DEG),region_name
+Tirol (AT33),region_name
+Tiroler Oberland (AT334),region_name
+Tiroler Unterland (AT335),region_name
+Toscana (ITI1),region_name
+Traunviertel (AT315),region_name
+Trier (DEB2),region_name
+"Trier, Kreisfreie Stadt (DEB21)",region_name
+Tübingen (DE14),region_name
+Uckermark (DE40I),region_name
+Umbria (ITI2),region_name
+Unterfranken (DE26),region_name
+Unterkärnten (AT213),region_name
+Utenos apskritis (LT029),region_name
+Valga,region_name
+Valle d’Aosta - Vallée d’Aoste (ITC2),region_name
+Varaždinska županija (HR062),region_name
+Varese (ITC41),region_name
+Veneto (ITH3),region_name
+Vidurio ir vakarų Lietuvos regionas (LT02),region_name
+Viljandi,region_name
+Vilniaus apskritis (LT011),region_name
+Vinnytsia Oblast (VI),region_name
+Virovitičko-podravska županija (HR022),region_name
+Volyn Oblast (VO),region_name
+Vorarlberg (AT34),region_name
+Võru,region_name
+Vukovarsko-srijemska županija (HR026),region_name
+Waldviertel (AT124),region_name
+"Weiden i. d. Opf, Kreisfreie Stadt (DE233)",region_name
+"Weimar, Kreisfreie Stadt (DEG05)",region_name
+Weinviertel (AT125),region_name
+Weser-Ems (DE94),region_name
+West- und Südsteiermark (AT225),region_name
+Westliche Obersteiermark (AT226),region_name
+Westösterreich (AT3),region_name
+Wien (AT13),region_name
+Wiener Umland/Nordteil (AT126),region_name
+Wiener Umland/Südteil (AT127),region_name
+"Wilhelmshaven, Kreisfreie Stadt (DE945)",region_name
+"Wolfsburg, Kreisfreie Stadt (DE913)",region_name
+"Worms, Kreisfreie Stadt (DEB39)",region_name
+"Wuppertal, Kreisfreie Stadt (DEA1A)",region_name
+"Würzburg, Kreisfreie Stadt (DE263)",region_name
+Zadarska županija (HR033),region_name
+Zagrebačka županija (HR065),region_name
+Zakarpattia Oblast (ZK),region_name
+Zaporizhzhia Oblast (ZP),region_name
+Zhytomyr Oblast (ZT),region_name
+"Zweibrücken, Kreisfreie Stadt (DEB3A)",region_name
+Благоевград (BG413),region_name
+Бургас (BG341),region_name
+Варна (BG331),region_name
+Велико Търново (BG321),region_name
+Видин (BG311),region_name
+Враца (BG313),region_name
+Габрово (BG322),region_name
+Добрич (BG332),region_name
+Кърджали (BG425),region_name
+Кюстендил (BG415),region_name
+Ловеч (BG315),region_name
+Монтана (BG312),region_name
+Пазарджик (BG423),region_name
+Перник (BG414),region_name
+Плевен (BG314),region_name
+Пловдив (BG421),region_name
+ПРОФОН - Prophon,region_name
+Разград (BG324),region_name
+Русе (BG323),region_name
+Северен централен (BG32),region_name
+Северна и Югоизточна България (BG3),region_name
+Северозападен (BG31),region_name
+Североизточен (BG33),region_name
+Силистра (BG325),region_name
+Сливен (BG342),region_name
+Смолян (BG424),region_name
+София (BG412),region_name
+София (столица) (BG411),region_name
+Стара Загора (BG344),region_name
+Търговище (BG334),region_name
+Хасково (BG422),region_name
+Шумен (BG333),region_name
+Югозападен (BG41),region_name
+Югозападна и Южна централна България (BG4),region_name
+Югоизточен (BG34),region_name
+Южен централен (BG42),region_name
+Ямбол (BG343),region_name
